@@ -1,0 +1,12 @@
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\bin\Debug\net6.0\Thread .NET.Common.deps.json
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\bin\Debug\net6.0\Thread .NET.Common.dll
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\bin\Debug\net6.0\Thread .NET.Common.pdb
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\Thread .NET.Common.csproj.AssemblyReference.cache
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\Thread .NET.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\Thread .NET.Common.AssemblyInfoInputs.cache
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\Thread .NET.Common.AssemblyInfo.cs
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\Thread .NET.Common.csproj.CoreCompileInputs.cache
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\Thread .NET.Common.dll
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\refint\Thread .NET.Common.dll
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\Thread .NET.Common.pdb
+C:\work\FullstackProj\thread-net\backend\Thread .NET.Common\obj\Debug\net6.0\ref\Thread .NET.Common.dll

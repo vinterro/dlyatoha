@@ -1,0 +1,17 @@
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\bin\Debug\net6.0\Thread .NET.BLL.deps.json
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\bin\Debug\net6.0\Thread .NET.BLL.dll
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\bin\Debug\net6.0\Thread .NET.BLL.pdb
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\bin\Debug\net6.0\Thread .NET.Common.dll
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\bin\Debug\net6.0\Thread .NET.DAL.dll
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\bin\Debug\net6.0\Thread .NET.Common.pdb
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\bin\Debug\net6.0\Thread .NET.DAL.pdb
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\Thread .NET.BLL.csproj.AssemblyReference.cache
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\Thread .NET.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\Thread .NET.BLL.AssemblyInfoInputs.cache
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\Thread .NET.BLL.AssemblyInfo.cs
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\Thread .NET.BLL.csproj.CoreCompileInputs.cache
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\Thread .NET.BLL.csproj.CopyComplete
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\Thread .NET.BLL.dll
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\refint\Thread .NET.BLL.dll
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\Thread .NET.BLL.pdb
+C:\work\FullstackProj\thread-net\backend\Thread .NET.BLL\obj\Debug\net6.0\ref\Thread .NET.BLL.dll
